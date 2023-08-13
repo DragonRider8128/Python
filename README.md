@@ -1,2 +1,2 @@
 # Python
-This repository contains backups of my python projects.
+This repository contains random small Python projects.
